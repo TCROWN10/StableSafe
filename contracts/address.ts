@@ -1,0 +1,7 @@
+const contractsAddresses = {
+    MockUSDC: 0xdb7CE481475beF888cD0cBAfeC4C741b6fB59EeC,
+RewardTreasury: 0xAFbd1B4bA5601EE7A7F600E45F314F00B951bd6d,
+GroupPoolImplementation: 0xDF7c752656510581B206Ce26b05250Ee219663A6,
+GroupPoolFactory: 0xd797b2d5fd4ffa407ef11ccdd4eFbc5cF0DE83c5,
+SavingsVault: 0xA4c4dd6991c3b6b2c85d4Dd315BfF4e247e50561
+}
